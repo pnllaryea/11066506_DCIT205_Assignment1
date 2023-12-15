@@ -13,7 +13,7 @@ const LandingPage = () => {
   const headingStyle = {
     fontSize: '2.5rem',
     fontWeight: 'bold',
-    marginBottom: '10px',
+    marginBottom: '11px',
     color: '#3498db', // Change color to a pleasing one
   };
 
